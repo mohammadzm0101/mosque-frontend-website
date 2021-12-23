@@ -63,7 +63,7 @@ body {
     font-family: 'Vazir';
     direction: rtl;
     font-size: 1rem;
-    font-weight: 400;
+    font-weight: 900;
     line-height: 1.5;
     color: #212529;
     text-align: right;
@@ -4705,7 +4705,7 @@ input[type="button"].btn-block {
 
 .navbar-toggler {
     padding: 0.25rem 0.75rem;
-    font-size: 1.25rem;
+    font-size: 1.95rem;
     line-height: 1;
     background-color: transparent;
     border: 1px solid transparent;
@@ -11455,7 +11455,7 @@ h1, h2, h3, h4, h5,
 .ftco-navbar-light {
     background: transparent !important;
     position: absolute;
-    top: 20px;
+    top: -20px;
     right: 0;
     left: 0;
     z-index: 3;
@@ -11463,7 +11463,7 @@ h1, h2, h3, h4, h5,
 
 @media (max-width: 991.98px) {
     .ftco-navbar-light {
-        background: #000 !important;
+        /* background: #000 !important; */
         position: relative;
         top: 0;
     }
@@ -11512,7 +11512,7 @@ h1, h2, h3, h4, h5,
         padding-left: 0;
         padding-top: .5em;
         padding-bottom: .5em;
-        color: rgba(255, 255, 255, 0.7);
+        color: rgba(5, 5, 5, 0.7);
     }
 
     .ftco-navbar-light .navbar-nav > .nav-item > .nav-link:hover {
@@ -11595,7 +11595,7 @@ h1, h2, h3, h4, h5,
 
 .ftco-navbar-light .navbar-toggler {
     border: none;
-    color: rgba(255, 255, 255, 0.5) !important;
+    color: rgba(8, 8, 8, 0.5) !important;
     cursor: pointer;
     padding-left: 0;
     text-transform: uppercase;

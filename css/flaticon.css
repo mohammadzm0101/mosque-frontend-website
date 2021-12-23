@@ -34,10 +34,10 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.flaticon-make-up:before { content: "\f100"; }
-.flaticon-high-heels:before { content: "\f101"; }
+.flaticon-make-up:before { content: "\f102"; }
+.flaticon-high-heels:before { content: "\f102"; }
 .flaticon-money:before { content: "\f102"; }
-.flaticon-clock:before { content: "\f103"; }
+.flaticon-clock:before { content: "\f102"; }
 .flaticon-message:before { content: "\f104"; }
 .flaticon-payment-method:before { content: "\f105"; }
 .flaticon-conversation:before { content: "\f106"; }
